@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contract_type: MyString
+  expiration_date: 2016-03-31
+  sus_value: 9.99
+  sus_complement: 9.99
+
+two:
+  contract_type: MyString
+  expiration_date: 2016-03-31
+  sus_value: 9.99
+  sus_complement: 9.99

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sus_code: MyString
+  description: MyString
+  quantity: 1
+  vendor_id: 1
+  contract_id: 1
+  ms_habilited: false
+  budget_id: 1
+  sia: 
+
+two:
+  sus_code: MyString
+  description: MyString
+  quantity: 1
+  vendor_id: 1
+  contract_id: 1
+  ms_habilited: false
+  budget_id: 1
+  sia: 
